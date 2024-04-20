@@ -1,0 +1,7 @@
+Current restart count for swype-app in sre: 1
+Current restart count for swype-app in sre: 2
+Current restart count for swype-app in sre: 3
+Current restart count for swype-app in sre: 4
+Current restart count for swype-app in sre: 5
+Restart count exceeded limit. Scaling down swype-app to 0 replicas.
+deployment.apps/swype-app scaled
